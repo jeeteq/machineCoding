@@ -1,4 +1,4 @@
-package com.example.jeetendra.logger;
+package loggerLLD;
 
 import java.util.ArrayList;
 import java.util.HashMap;

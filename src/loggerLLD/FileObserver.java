@@ -1,4 +1,4 @@
-package com.example.jeetendra.logger;
+package loggerLLD;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

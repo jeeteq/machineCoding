@@ -1,4 +1,4 @@
-package com.example.jeetendra.logger;
+package loggerLLD;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

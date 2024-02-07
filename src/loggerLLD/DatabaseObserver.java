@@ -1,4 +1,4 @@
-package com.example.jeetendra.logger;
+package loggerLLD;
 
 public class DatabaseObserver implements LogObserver {
     @Override

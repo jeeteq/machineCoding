@@ -1,4 +1,4 @@
-package com.example.jeetendra.files;
+package fileSystemLLD;
 
 public class File {
     private String name;
